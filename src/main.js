@@ -5,6 +5,8 @@ import store from './store'
 import './styles/index.less'
 import Vant from 'vant'
 import 'vant/lib/index.css'
+import 'amfe-flexible'
+
 Vue.config.productionTip = false
 // 注册使用Vant组件
 Vue.use(Vant)
